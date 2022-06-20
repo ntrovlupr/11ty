@@ -18,7 +18,7 @@
   --fw-900: 900;
 
   --clr-primary-200: rgb(251, 247, 244);
-  --clr-primary-400: #156064;
+  --clr-primary-400: #028090;
   --clr-primary-500: hsl(53, 9%, 18%);
   --clr-primary-550: hsl(36, 12%, 24%);
   --clr-primary-600: hsla(205, 17%, 34%, .7);
@@ -248,9 +248,15 @@ aside {
   padding-top: 3px;  
 }
 
+.logo-border {
+  
+  border: .001em solid #f8e16c;
+  padding: .1em;
+}
+
 .page-header {
   background: var(--clr-primary-200);
-  padding: .5em 2em .2em;
+  padding: .3em 2em .2em;
 }
 
 .page-header__content {
