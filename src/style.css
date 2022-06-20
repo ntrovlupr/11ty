@@ -249,7 +249,6 @@ aside {
 }
 
 .logo-border {
-  
   border: .001em solid #f8e16c;
   padding: .1em;
 }
@@ -266,7 +265,7 @@ aside {
 
 .nav-list {
   margin: 0;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
 .nav-list a {
@@ -280,7 +279,7 @@ aside {
 .nav-list a:focus,
 .nav-list a:hover {
   border-bottom: 0.115em solid rgba(251, 211, 119, 0.732);
-  color: rgba(214, 192, 67, 0.806);  //rgba(186, 161, 36, 0.956)
+  color: rgba(223, 198, 60, 0.868);  //rgba(186, 161, 36, 0.956)
   text-decoration: none;
   text-shadow: 3px 5px 10px rgba(0,0,0, .3);
   transition: all 175ms ease-in-out; 
