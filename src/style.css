@@ -256,7 +256,7 @@ aside {
 
 .page-header {
   background: var(--clr-primary-200);
-  padding: .3em 2em .2em;
+  padding: .01em 2em .01em;
 }
 
 .page-header__content {
@@ -303,7 +303,7 @@ aside {
   }
   
   .btn:focus {
-    outline: 0.115em solid rgb(42, 244, 237);
+    outline: 0.111em solid #02c39a;
     outline-offset: 0.25em;
   }
   
