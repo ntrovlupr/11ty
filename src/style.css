@@ -18,12 +18,12 @@
   --fw-900: 900;
 
   --clr-primary-200: rgb(251, 247, 244);
-  --clr-primary-400: rgba(6, 120, 78, 0.868);
+  --clr-primary-400: #156064;
   --clr-primary-500: hsl(53, 9%, 18%);
   --clr-primary-550: hsl(36, 12%, 24%);
   --clr-primary-600: hsla(205, 17%, 34%, .7);
   --clr-primary-650: rgba(147, 231, 207, 0);
-  --clr-primary-700: hsl(43, 9%, 85%); //hsl(43, 9%, 85%)
+  --clr-primary-700: hsl(43, 9%, 85%); //hsl(43, 9%, 85%) //--clr-primary-400: rgba(17, 144, 97, 0.925)
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -239,7 +239,7 @@ aside {
   /////////////////////// */
 
 .logo {
-  color: rgba(214, 192, 67, 0.806);
+  color: #f8e16c;
   font-size: var(--fs-500);
   font-family: 'Kdam Thmor Pro', sans-serif;
   letter-spacing: 1px;
@@ -297,7 +297,7 @@ aside {
   }
   
   .btn:focus {
-    outline: 0.115em solid rgb(45, 244, 42);
+    outline: 0.115em solid rgb(42, 244, 237);
     outline-offset: 0.25em;
   }
   
